@@ -51,65 +51,696 @@ Course Topics
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 6 problem sets | 20% |
-| 2 quizzes | 50% |
-| 3 lab reports | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 lab reports
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| Lec 1 |  {{< br >}}{{< br >}} Introduction and course overview {{< br >}}{{< br >}} The Hamiltonian approach to classical mechanics: Analysis of a simple oscillator {{< br >}}{{< br >}}  | PSet 1 out |
-| Rec 1 | &nbsp; |
-| Lec 2 | The Hamiltonian approach to classical mechanics: Analysis of vibrations in one-dimensional lattice | &nbsp; |
-| Lec 3 | The Hamiltonian analysis of lattice vibrations: Phononic bandgap | &nbsp; |
-| Rec 2 | &nbsp; |
-| Lec 4 | Introduction to quantum mechanical way of thinking |  {{< br >}}{{< br >}} PSet 1 due {{< br >}}{{< br >}} PSet 2 out {{< br >}}{{< br >}}  |
-| Rec 3 | &nbsp; |
-| Lec 5 | Quantum mechanical systems and measurements: Observables | &nbsp; |
-| Lec 6 | Quantum mechanical systems and measurements: Spectral decomposition | &nbsp; |
-| Lec 7 | Quantum mechanical measurements: Symmetries, conserved quantities, and the labeling of states | &nbsp; |
-| Rec 4 | &nbsp; |
-| Lec 8 | Symmetries, conserved quantities, and the labeling of states: Angular momentum | &nbsp; |
-| {{< td-colspan 2 >}}**Lab Week**{{< /td-colspan >}} ||  {{< br >}}{{< br >}} PSet 2 due {{< br >}}{{< br >}} PSet 3 out {{< br >}}{{< br >}} Lab report 1 due {{< br >}}{{< br >}}  |
-| Rec 5 | Lab recitation | &nbsp; |
-| Lec 9 | The hydrogen atom | &nbsp; |
-| Rec 6 | &nbsp; |
-| Lec 10 | Waves in periodic potentials: Part I | &nbsp; |
-| Lec 11 | Waves in periodic potentials: Part II | &nbsp; |
-| Rec 7 | &nbsp; |
-| Lec 12 | Band gap | &nbsp; |
-| Rec 8 | &nbsp; |
-| Lec 13 | Band diagrams |  {{< br >}}{{< br >}} PSet 3 due {{< br >}}{{< br >}} PSet 4 out {{< br >}}{{< br >}}  |
-| Lec 14 | The free electron gas: Density of states | &nbsp; |
-| Rec 9 | Midterm exam review | &nbsp; |
-| {{< td-colspan 3 >}}**Midterm Exam**{{< /td-colspan >}} |||
-| Lec 15 | Fermi-Dirac distribution | &nbsp; |
-| Rec 10 | Lab recitation | &nbsp; |
-| Lec 16 | Carriers in intrinsic semiconductors | &nbsp; |
-| {{< td-colspan 2 >}}**Lab Week**{{< /td-colspan >}} || Lab report 2 due |
-| Rec 11 | &nbsp; |
-| Lec 17 | Engineering conductivity through doping | &nbsp; |
-| Rec 12 | &nbsp; |
-| Lec 18 | The P-N junction (the diode) |  {{< br >}}{{< br >}} PSet 4 due {{< br >}}{{< br >}} PSet 5 out {{< br >}}{{< br >}}  |
-| Lec 19 | Light emitting diodes | &nbsp; |
-| Rec 13 | &nbsp; |
-| Lec 20 | Light emitting diodes (cont.) | &nbsp; |
-| Lec 21 | Reminder / introduction to wave optics | &nbsp; |
-| Rec 14 | &nbsp; |
-| Lec 22 | Electromagnetic waves | &nbsp; |
-| Rec 15 | Lab recitation | &nbsp; |
-| Lec 23 | Layered materials and photonic band diagrams |  {{< br >}}{{< br >}} PSet 5 due {{< br >}}{{< br >}} PSet 6 out {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Lab Week**{{< /td-colspan >}} || Lab report 3 due |
-| Rec 16 | &nbsp; |
-| Lec 24 | Origins of magnetization | &nbsp; |
-| Rec 17 | &nbsp; |
-| Lec 25 | Hysteresis in ferromagnetic materials | PSet 6 due |
-| Lec 26 | Magnetic domains | &nbsp; |
-| Rec 18 | &nbsp; |
-| Lec 27 | Course summary and review for final exam | &nbsp; |
-| Rec 19 | Final exam review | &nbsp; |
-| {{< td-colspan 3 >}}**Final Exam**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and course overview
+
+The Hamiltonian approach to classical mechanics: Analysis of a simple oscillator
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+PSet 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+The Hamiltonian approach to classical mechanics: Analysis of vibrations in one-dimensional lattice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+The Hamiltonian analysis of lattice vibrations: Phononic bandgap
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to quantum mechanical way of thinking
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 1 due
+
+PSet 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum mechanical systems and measurements: Observables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum mechanical systems and measurements: Spectral decomposition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum mechanical measurements: Symmetries, conserved quantities, and the labeling of states
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+Symmetries, conserved quantities, and the labeling of states: Angular momentum
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Lab Week**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 2 due
+
+PSet 3 out
+
+Lab report 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 9
+{{< tdclose >}}
+{{< tdopen >}}
+The hydrogen atom
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+Waves in periodic potentials: Part I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 11
+{{< tdclose >}}
+{{< tdopen >}}
+Waves in periodic potentials: Part II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 12
+{{< tdclose >}}
+{{< tdopen >}}
+Band gap
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 13
+{{< tdclose >}}
+{{< tdopen >}}
+Band diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 3 due
+
+PSet 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 14
+{{< tdclose >}}
+{{< tdopen >}}
+The free electron gas: Density of states
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 9
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Midterm Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 15
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi-Dirac distribution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 10
+{{< tdclose >}}
+{{< tdopen >}}
+Lab recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 16
+{{< tdclose >}}
+{{< tdopen >}}
+Carriers in intrinsic semiconductors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Lab Week**
+{{< tdclose >}}
+{{< tdopen >}}
+Lab report 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 17
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering conductivity through doping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 18
+{{< tdclose >}}
+{{< tdopen >}}
+The P-N junction (the diode)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 4 due
+
+PSet 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 19
+{{< tdclose >}}
+{{< tdopen >}}
+Light emitting diodes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 20
+{{< tdclose >}}
+{{< tdopen >}}
+Light emitting diodes (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 21
+{{< tdclose >}}
+{{< tdopen >}}
+Reminder / introduction to wave optics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 22
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic waves
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 15
+{{< tdclose >}}
+{{< tdopen >}}
+Lab recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 23
+{{< tdclose >}}
+{{< tdopen >}}
+Layered materials and photonic band diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 5 due
+
+PSet 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Lab Week**
+{{< tdclose >}}
+{{< tdopen >}}
+Lab report 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 16
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 24
+{{< tdclose >}}
+{{< tdopen >}}
+Origins of magnetization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 17
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 25
+{{< tdclose >}}
+{{< tdopen >}}
+Hysteresis in ferromagnetic materials
+{{< tdclose >}}
+{{< tdopen >}}
+PSet 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 26
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic domains
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 18
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 27
+{{< tdclose >}}
+{{< tdopen >}}
+Course summary and review for final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rec 19
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Final Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

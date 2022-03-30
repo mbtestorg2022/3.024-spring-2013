@@ -16,7 +16,7 @@ Labs: 3 weeks, 5 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[_3.012 Fundamentals of Materials Science and Engineering_](/courses/3-012-fundamentals-of-materials-science-fall-2005/)
+[_3.012 Fundamentals of Materials Science and Engineering_](/courses/3-012-fundamentals-of-materials-science-fall-2005)
 
 Description
 -----------
